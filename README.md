@@ -1,9 +1,9 @@
 # Autoencoder-AE-Model
 An Autoencoder (AE) is an unsupervised neural network used to learn efficient representations of data. It works by compressing the input into a latent (encoded) space and then reconstructing the original input from that compressed representation.
 
-Kaggle Notebook: 
+Kaggle Notebook: https://www.kaggle.com/code/ahmed1harfoush/autoencoders-model  
 
-Colab CNN MNIST Keras & AutoEncoder Notebook: https://www.kaggle.com/code/ahmed1harfoush/autoencoders-model              
+Colab CNN MNIST Keras & AutoEncoder Notebook:              
 https://colab.research.google.com/drive/1szWQg-gfoePlAJLVQJpW8tei-cRjzeoC?usp=sharing
                                                     
 Colab CNN CIFAR 10 Keras & AutoEncoder Notebook: 
